@@ -1,3 +1,0 @@
-org.jetbrains.amper.diagnostics.DynamicFileWriter
-org.jetbrains.amper.diagnostics.DynamicLevelConsoleWriter
-org.jetbrains.amper.diagnostics.LastLogMonitoringWriter

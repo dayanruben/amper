@@ -1,8 +1,0 @@
-product:
-  type: lib
-  platforms: [jvm]
-
-settings:
-  kotlin:
-    serialization:
-      format: json

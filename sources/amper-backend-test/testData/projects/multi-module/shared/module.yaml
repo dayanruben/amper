@@ -1,6 +1,0 @@
-product:
-  type: lib
-  platforms: [jvm]
-
-dependencies:
-  - org.jetbrains.kotlinx:kotlinx-datetime:0.4.0

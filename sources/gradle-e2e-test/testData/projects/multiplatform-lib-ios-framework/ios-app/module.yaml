@@ -1,9 +1,0 @@
-product: ios/app
-
-dependencies:
-  - ../shared
-  - $compose.foundation
-  - $compose.material3
-
-settings:
-  compose: enabled

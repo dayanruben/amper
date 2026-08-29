@@ -1,6 +1,0 @@
-product:
-  type: lib
-  platforms: [jvm]
-
-dependencies:
-  - org.junit.jupiter:junit-jupiter-api:9999
